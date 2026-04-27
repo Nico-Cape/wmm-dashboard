@@ -1,3 +1,13 @@
 {
-  "templates": []
+  "templates": [
+    {
+      "id": "mogrrxwgj7s5p",
+      "name": "All Volunteer Email",
+      "purpose": "Flows, email templates, Timeframes related to volunteer email",
+      "docUrl": "https://docs.google.com/document/d/1JFJaLM9jgjXkuff5OW2cSaOoQ5JSVryn4j_UVmu_l90/edit?usp=sharing",
+      "status": "active",
+      "notes": "",
+      "changes": []
+    }
+  ]
 }
