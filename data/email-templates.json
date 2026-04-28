@@ -1,6 +1,15 @@
 {
   "templates": [
     {
+      "id": "moiwmy7myvums",
+      "name": "Volunteer Interest Form and Application",
+      "purpose": "Form reference for Volunteer Interest",
+      "docUrl": "https://docs.google.com/document/d/1P8LaJL4mOm45-QFISPap5Cxdbk-abchflwbQW73EGdw/edit?usp=sharing",
+      "status": "active",
+      "notes": "",
+      "changes": []
+    },
+    {
       "id": "moiuuujnkrtkh",
       "name": "Program Signups Descriptions",
       "purpose": "Detailed descriptions for signups",
