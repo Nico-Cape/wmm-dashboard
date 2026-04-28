@@ -1,6 +1,15 @@
 {
   "templates": [
     {
+      "id": "moiuuujnkrtkh",
+      "name": "Program Signups Descriptions",
+      "purpose": "Detailed descriptions for signups",
+      "docUrl": "https://docs.google.com/document/d/1H2UHrNJ5nOlnYiKkOwBfbK-fhhauOD3S0r3MShg2MHE/edit?usp=sharing",
+      "status": "active",
+      "notes": "",
+      "changes": []
+    },
+    {
       "id": "mogrrxwgj7s5p",
       "name": "All Volunteer Email",
       "purpose": "Flows, email templates, Timeframes related to volunteer email",
