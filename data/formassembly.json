@@ -166,7 +166,13 @@
       ],
       "status": "active",
       "notes": "",
-      "errors": []
+      "errors": [
+        {
+          "date": "2026-04-28",
+          "description": "This is an automated notification of a connector processing error regarding your form \"Program Interest Form\"\n\n\nWHAT HAPPENED:\n\nThe following response was received, but could not be processed using the Salesforce Connector:\nhttps://womensmoneymatters.tfaforms.net/responses/view/385046589\n\nThe error was: 3.CreateLead - Required fields are missing: [LastName]\n\nThe error log for the Salesforce Connector is available here:\nhttps://womensmoneymatters.tfaforms.net/connector_salesforce2/view_log/462954",
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "moiwt2orqbz6z",
